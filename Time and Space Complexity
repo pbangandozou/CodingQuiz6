@@ -1,0 +1,5 @@
+Plus Minus
+
+Time Complexity: The time complexity of this code would be O(n) because there is only one for loop that the code goes through. 
+
+Space Complexity: The space complexity is O(1) because it uses a constant amount of variables to store data/information.
